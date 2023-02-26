@@ -1,0 +1,42 @@
+
+.top-bar{
+    background-color: #3498db;
+    padding-bottom: 200px;
+}
+
+.lecorps{
+    background-color: #2980b9;
+}
+
+.maintopic{
+    align-items: center;
+    color: #ccf381;
+    letter-spacing: -0.03em;
+    font-weight: 900;
+    line-height: 1.1;
+    text-align: center;
+}
+
+
+/* Style the first letter of the name */
+.felix:first-letter {
+    font-size: 3rem;
+    color: #FFC107; /* Yellow */
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-right: 5px;
+    line-height: 0.8;
+  }
+  
+  /* Style the rest of the name */
+  .felix {
+    font-size: 2rem;
+    color: #222; /* Dark grey */
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  }
+  
